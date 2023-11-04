@@ -21,6 +21,10 @@ public class Employee {
 	
 	@Column(name = "Date Of Birth")
 	private String dob;
+
+@Column(name = "Age")
+	private String age;
+
 	
 	@Column(name = "Gender")
 	private String gender;
