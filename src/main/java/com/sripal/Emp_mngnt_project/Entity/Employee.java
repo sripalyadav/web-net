@@ -19,9 +19,6 @@ public class Employee {
 	@Column(name = "Employee_Name")
 	private String employeename;
 	
-	@Column(name = "Employee_age")
-	private String age;
-	
 	@Column(name = "Date Of Birth")
 	private String dob;
 	
